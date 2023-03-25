@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Practicar Ciberseguridad"
+title:  "Paginas para practicar"
 date:   2023-03-25 03:05:10 +0100
 categories: jekyll update
 ---
